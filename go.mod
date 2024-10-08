@@ -1,3 +1,3 @@
-module github.com/Roodrrigoo/greetings
+module github.com/Roodrrigoo/GreetingsGolang
 
 go 1.23.1
